@@ -23,7 +23,7 @@
 
 💼 **Currently seeking exciting tech opportunities!**
 
----
+
 
 ### 🛠️ **Technical Stack:**
 
