@@ -45,3 +45,8 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/brijesh-rai-120712129/) | [Portfolio](https://brijesh-portfolio.vercel.app/)
 
 Thanks for visiting! ⭐
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
