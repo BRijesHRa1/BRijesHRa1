@@ -51,9 +51,9 @@
 
 ### 🚧 **Current/Recent Projects:**
 
-- 🎧 **[Music Genre Classification](link_to_project_repo):** Leveraged CNNs for genre prediction, achieving superior accuracy.
+- 🎧 **[Music Genre Classification](https://github.com/BRijesHRa1/Music-Genre-Classification-using-GTZAN):** Leveraged CNNs for genre prediction, achieving superior accuracy.
 - 🌐 **[Portfolio Website](https://brijesh-portfolio.vercel.app/):** Built using React, showcasing interactive projects and blogs.
-- 🤖 **[AI Chatbot with Ollama](https://github.com/yourusername/ai-chatbot)** Built a responsive and intelligent chatbot leveraging Ollama’s GPT models.
+- 🤖 **[AI Chatbot with Ollama](https://github.com/BRijesHRa1/Ai-chatbot)** Built a responsive and intelligent chatbot leveraging Ollama’s GPT models.
 
 ---
 
