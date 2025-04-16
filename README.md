@@ -34,7 +34,7 @@
 - **ML/AI Tools:** TensorFlow, PyTorch, scikit-learn, OpenCV
 - **DevOps/Cloud:** Docker, Kubernetes, AWS, CI/CD, Jenkins, Git, OAuth 2.0
 
----
+
 
 ### 📈 **Professional Experience Highlights:**
 
@@ -42,14 +42,14 @@
 - 🛠️ Optimized Java and Spring Boot APIs at **Ansh Softech**, reducing latency by 30%.
 - 🧑‍💻 Extensive experience with React.js, Docker, Kubernetes, Jenkins, and CI/CD pipelines.
 
----
+
 
 ### 🎓 **Education:**
 
 - 🎓 **MS in Computer Science** – University of Alabama at Birmingham (GPA: 3.6/4.0)
 - 🎓 **BE in Computer Science & Engineering** – Chandigarh University (Gold medal in Data Structures Quiz)
 
----
+
 
 ### 🚧 **Current/Recent Projects:**
 
@@ -57,7 +57,7 @@
 - 🌐 **[Portfolio Website](https://brijesh-portfolio.vercel.app/):** Built using React, showcasing interactive projects and blogs.
 - 🤖 **[AI Chatbot with Ollama](https://github.com/BRijesHRa1/Ai-chatbot)** Built a responsive and intelligent chatbot leveraging Ollama’s GPT models.
 
----
+
 
 ### 📫 **Connect with me:**
 
