@@ -66,4 +66,8 @@
 
 Thanks for visiting! ⭐
 
+## Profile & Repo Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=BRijesHRa1&color=blue)
+
 
