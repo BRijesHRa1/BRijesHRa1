@@ -1,3 +1,6 @@
+
+![Profile Views](https://komarev.com/ghpvc/?username=BRijesHRa1&color=blue)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-E34A86?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
@@ -66,8 +69,6 @@
 
 Thanks for visiting! ⭐
 
-## Profile & Repo Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=BRijesHRa1&color=blue)
 
 
