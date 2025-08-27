@@ -1,5 +1,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BRijesHRa1&color=blue)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-400-blue)
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-E34A86?logo=openjdk&logoColor=white)
