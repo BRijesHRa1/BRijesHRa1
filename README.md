@@ -43,8 +43,8 @@
 
 ### 📈 **Professional Experience Highlights:**
 
-- 🚀 Built automated integrations and high-performance solutions at **Taboola**, increasing revenue by $100K/year.
-- 🛠️ Optimized Java and Spring Boot APIs at **Ansh Softech**, reducing latency by 30%.
+- 🚀 Built automated integrations and high-performance solutions, increasing revenue by $100K/year.
+- 🛠️ Optimized Java and Spring Boot APIs, reducing latency by 30%.
 - 🧑‍💻 Extensive experience with React.js, Docker, Kubernetes, Jenkins, and CI/CD pipelines.
 
 
